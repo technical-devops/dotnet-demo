@@ -1,0 +1,15 @@
+/home/redic/dotnet-counter/bin/Debug/net7.0/DotNet.Docker
+/home/redic/dotnet-counter/bin/Debug/net7.0/DotNet.Docker.deps.json
+/home/redic/dotnet-counter/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/home/redic/dotnet-counter/bin/Debug/net7.0/DotNet.Docker.dll
+/home/redic/dotnet-counter/bin/Debug/net7.0/DotNet.Docker.pdb
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.dll
+/home/redic/dotnet-counter/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.pdb
+/home/redic/dotnet-counter/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/redic/dotnet-counter/obj/Debug/net7.0/ref/DotNet.Docker.dll
