@@ -1,0 +1,5 @@
+/home/redic/dotnet-counter/bin/Release/net7.0/publish/DotNet.Docker
+/home/redic/dotnet-counter/bin/Release/net7.0/publish/DotNet.Docker.dll
+/home/redic/dotnet-counter/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/home/redic/dotnet-counter/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/home/redic/dotnet-counter/bin/Release/net7.0/publish/DotNet.Docker.pdb
